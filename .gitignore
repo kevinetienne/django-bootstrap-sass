@@ -1,3 +1,7 @@
 *.pyc
 *.sw[po]
+dist
+build
+*egg-info
+MANIFEST
 
