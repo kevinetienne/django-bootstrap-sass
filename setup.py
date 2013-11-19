@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-bootstrap-sass',
-    version='0.0.2-alpha',
+    version='0.0.3-alpha',
     author='Kevin Etienne',
     author_email='etienne.kevin@gmail.com',
     url='http://github.com/ekevin/django-bootstrap-sass',
@@ -12,7 +12,7 @@ setup(
     packages=['bootstrap_sass'],
     package_data={'bootstrap_sass': ['static/javascripts/*',
                                      'static/stylesheets/*',
-                                     'static/images/*']},
+                                     'static/fonts/*']},
 )
 
 
