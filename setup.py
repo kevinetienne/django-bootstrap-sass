@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-bootstrap-sass',
-    version='0.0.5-alpha',
+    version='0.0.6-alpha',
     author='Kevin Etienne',
     author_email='etienne.kevin@gmail.com',
     url='http://github.com/ekevin/django-bootstrap-sass',
