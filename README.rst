@@ -3,10 +3,10 @@ django-bootstrap-sass
 ---------------------
 
 
-.. image:: https://pypip.in/v/django-bootstrap-sass/badge.png
+.. image:: https://img.shields.io/pypi/v/django-bootstrap-sass.svg
         :target: https://pypi.python.org/pypi/django-bootstrap-sass
 
-.. image:: https://pypip.in/d/django-bootstrap-sass/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-bootstrap-sass.svg
         :target: https://pypi.python.org/pypi/django-bootstrap-sass
 
 
